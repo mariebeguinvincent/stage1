@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.soupday.cc3_unity_tools": {
-      "version": "file:C:/Users/marie/OneDrive/Bureau/Master Psy Co - Brest/Master 2/Stage/cc_unity_tools_URP-main",
+      "version": "file:C:/VR APP/CC4.2 and IC8.2 Final/cc_unity_tools_URP-main",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -71,7 +71,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.14.0",
+      "version": "1.14.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
